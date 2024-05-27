@@ -4,11 +4,14 @@ using UnityEngine.EventSystems;
 
 public class RoadGenerator : MonoBehaviour
 {
+    public static RoadGenerator instance;
     public GameObject RoadPrefab;
     private List<GameObject> roads = new List<GameObject>();
     public float maxSpeed = 10.0f;
     private float speed = 0.0f;
     public int maxRoadCount = 5;
+
+    void Awake() => instance = this;
 
     void Start()
     {
