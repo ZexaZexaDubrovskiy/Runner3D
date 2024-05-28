@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|d:\\unity projects\\playmarketgames\\games\\runner\\assets\\scripts\\roadgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|D:\\Unity projects\\PlayMarketGames\\Games\\Runner\\assets\\scripts\\roadgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roadgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Runner\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAA0wEMAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T16:07:10.682Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SwipeManager.cs",
               "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Runner\\Assets\\Scripts\\SwipeManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SwipeManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwCIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T16:01:08.147Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\RoadGenerator.cs",
               "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Runner\\Assets\\Scripts\\RoadGenerator.cs",
               "RelativeToolTip": "Assets\\Scripts\\RoadGenerator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T14:01:53.425Z",
               "EditorCaption": ""
